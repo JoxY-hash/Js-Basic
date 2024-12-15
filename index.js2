@@ -1,0 +1,3 @@
+const myAge = 24; //number literal
+
+console.log
