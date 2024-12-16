@@ -79,7 +79,7 @@ console.log(20,30)
 function averageOf4Numbers(m1,m2,m3,m4){
     return ((m1+m2+m3+m4)/4)
 }
-console.log(averageOf4Number(12,16,32,36))
+console.log(averageOf4Numbers(12,16,32,36))
 
 function minutesToHours(min){
     return min/60
